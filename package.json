@@ -1,0 +1,1 @@
+﻿{"name":"yap-autonomy-qa-20261119","private":true,"type":"module","scripts":{"test":"node --test src/app.test.js"}}
